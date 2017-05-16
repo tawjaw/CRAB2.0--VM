@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Tawfiq\Documents\GitHub\CRAB2.0--VM-and-EA\WtUI\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tawfiq\Documents\GitHub\CRAB2.0--VM-and-EA\WtUI\crab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VM\Common.cpp">
+      <Filter>VM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VM\func_comparison_operators.cpp">
+      <Filter>VM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VM\func_flow_control_operators.cpp">
+      <Filter>VM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VM\func_logic_operators.cpp">
+      <Filter>VM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VM\func_math_operators.cpp">
+      <Filter>VM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VM\func_memory_transfer_Operators.cpp">
+      <Filter>VM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VM\ParsingHelper.cpp">
+      <Filter>VM</Filter>
+    </ClCompile>
+    <ClCompile Include="..\VM\VirtualMachine.cpp">
+      <Filter>VM</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Tawfiq\Documents\GitHub\CRAB2.0--VM-and-EA\WtUI\crab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tawfiq\Documents\GitHub\CRAB2.0--VM-and-EA\WtUI\ui_crab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\VM\common.h">
+      <Filter>VM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\VM\Operator.h">
+      <Filter>VM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\VM\ParsingHelper.h">
+      <Filter>VM</Filter>
+    </ClInclude>
+    <ClInclude Include="..\VM\VirtualMachine.h">
+      <Filter>VM</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tawfiq\Documents\GitHub\CRAB2.0--VM-and-EA\WtUI\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{125E2F03-1B6D-3674-A55B-98A32EC82D20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1B9AD888-A031-3E57-8D34-4D0821A774E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VM">
+      <UniqueIdentifier>{fddcbb88-9f47-426f-8b39-0124c7adfea3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
