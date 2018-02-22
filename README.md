@@ -1,10 +1,8 @@
 # CRAB2.0--VM
-Authors:
-Dr. Nawwaf Kharma 
-Tawfiq Jawhar
-***
-This language and/or the VM can not be used without the permision of one of the authors.
-***
+
+# Authors: Dr. Nawwaf Kharma and Tawfiq Jawhar
+### This language and/or the VM can not be used without the permision of one of the authors.
+
 CRAB 2.0 is an assembly language that runs on a virtual machine designed for effecient evolution of programs; Linear Genetic Programming.
 ## Default Operands
 The idea behind the design that every instruction can have any number of operands compared to other assembly languages that require 2 or 3 operands.
