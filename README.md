@@ -1,6 +1,6 @@
 # CRAB2.0--VM
 
-# Authors: Dr. Nawwaf Kharma and Tawfiq Jawhar
+## Authors: Dr. Nawwaf Kharma and Tawfiq Jawhar
 ### This language and/or the VM can not be used without the permision of one of the authors.
 
 CRAB 2.0 is an assembly language that runs on a virtual machine designed for effecient evolution of programs; Linear Genetic Programming.
@@ -46,3 +46,6 @@ The VM has a web user interface built with Wt in C++.
 The UI allows the user to write a CRAB2.0 program with syntax highlighting and run the full program or instruction by instruction while keeping track of the program counter's position.
 ![Screenshot](screenshots/vmui.png)
 
+The editor used is ace editor: https://ace.c9.io/ with an extension written for CRAB2.0 language.
+
+Other contributors worked on testing the correctness of every instruction with multiple possible operand values and the extension for the syntax highlighting of the ace editor. 
